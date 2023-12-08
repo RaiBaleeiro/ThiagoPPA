@@ -109,7 +109,7 @@ input[type=radio] {
     position:absolute;
     top:88%;
     left:62%;
-    background-color:midnightblue; /* Green */
+    background-color:midnightblue; 
     border: none;
     color: white;
     padding: 20px 32px;
